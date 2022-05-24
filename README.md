@@ -1,6 +1,6 @@
 # Movie-Analysis
 
-![alt text](image/poster.png "Poster")
+![alt text](image/poster.png "Movie Poster")
 
 ## Information
 This project uses Python Pandas, Numpy & Matplotlib to analyze and answer questions about a movie dataset from IMDb (Internet Movie Database). The dataset contains 100 years worth of movies (from 1916-2016).
